@@ -1,2 +1,3 @@
 # InternationalLionDanceTeam
-Website of the International Lion Dance Team
+[Website](https://internationalliondanceteam.github.io/) of the International Lion Dance Team
+
