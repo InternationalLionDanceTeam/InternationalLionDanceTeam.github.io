@@ -1,6 +1,20 @@
 body {
-    background-color: #121212;
+    background-color: #FFD700;
 }
-p {
-    color: white;
+
+.title {
+    color: black;
+    margin: 50px;
+    font-size: x-large;
+    font-weight: bolder;
 }
+
+.panel {
+    margin: auto;
+    width: 62%;
+    margin-top: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 25px;
+    background-color: white; 
+  }
