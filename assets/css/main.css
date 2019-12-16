@@ -1,19 +1,22 @@
 body {
-    background-color: #FFD700;
+    background-color: #FDB515;
 }
 
 .logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 100;
+    margin-top: 10px;
 }
 
 .title {
     color: black;
-    margin: 50px;
+    margin: 10px;
+    text-align: center;
     font-size: x-large;
     font-weight: bolder;
+    font-family: "Arial Black", Helvetica, sans-serif;
 }
 
 .panel {
